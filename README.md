@@ -1,7 +1,7 @@
-Before running:
-	>install python 3
-	>install pandas in python:
-		-open command prompt.
+<b>Before running: </b><br>
+	>install python 3<br>
+	>install pandas in python:<br>
+		-open command prompt.<br>
 		-type "pip install pandas" and enter
 
 How to run?

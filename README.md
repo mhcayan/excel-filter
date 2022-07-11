@@ -1,9 +1,12 @@
 <b>Before running: </b>
 <pre>
 	>install python 3
-	>install pandas in python:
+		*make sure you add python to environment variable path
+	>install pandas and openpyxl package in python:
 		-open command prompt.
 		-type "pip install pandas" and enter
+		-type "pip install openpyxl" and enter
+		
 </pre>
 <b>How to run?</b>
 <pre>
